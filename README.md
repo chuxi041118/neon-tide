@@ -14,6 +14,24 @@ node serve.ts
 
 Then open http://localhost:8080 — or open `game/index.html` from any static file server. No build step, no network requests.
 
+## Controls
+
+- **WASD** — move on foot
+- **Mouse** — aim
+- **Hold click** — fire
+- **E** — steal / enter a car
+- **Shift / Right-click** — dash (brief invulnerability)
+- **Wanted** — 0–5 stars; police chase on foot and in cars.
+
+## Missions
+
+Work all four jobs for Mara Voss:
+
+1. **The First Job** — prove yourself with a simple pickup and drop-off.
+2. **Shake the Heat** — lose the cops tailing you after a job goes loud.
+3. **Harbor Heist** — hit the harbour and get out with the goods.
+4. **Deadline Dash** — race the clock across Port Meridian before time runs out.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=3s33c3ks&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
